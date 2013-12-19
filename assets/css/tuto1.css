@@ -1,0 +1,18 @@
+/*[class*="span"] {
+ background-color: lightgreen;
+ margin-bottom: 10px;
+ border-radius: 5px 5px 5px 5px;
+ line-height: 80px;
+ text-align: center;
+}
+[class="span10"] {
+ background-color: green;
+}*/
+
+.blue{background-color: lightblue;}
+.yellow{background-color: yellow;}
+.red{background-color: red;}
+.green{background-color: lightgreen;}
+section{height:200px}
+
+.m-top-10{margin-top:10px}
